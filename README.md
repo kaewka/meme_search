@@ -11,5 +11,5 @@ User stories:
  * [x] Required: Click on an image open a new view with that image and an input box to enter some text.
  * [x] Requires: User can click on a facebook or twitter buttons to post to the image with message.
  * [x] Requires: If user doesn't have permission to post to facebook or twitter.  We will ask user to give us permission.
- * [*] Optional: Integrate wtih 2-3 image search services.
- * [*] Optional: Allow user to put some text on the image (meme generator)
+ * [x] Optional: Integrate wtih 2-3 image search services.
+ * [x] Optional: Allow user to put some text on the image (meme generator)
