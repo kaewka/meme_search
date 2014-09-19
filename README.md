@@ -13,3 +13,6 @@ User stories:
  * Requires: If user doesn't have permission to post to facebook or twitter.  We will ask user to give us permission.
  * Optional: Integrate wtih 2-3 image search services.
  * Optional: Allow user to put some text on the image (meme generator)
+
+ (Androidmocks.png)
+
