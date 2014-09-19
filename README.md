@@ -14,5 +14,5 @@ User stories:
  * Optional: Integrate wtih 2-3 image search services.
  * Optional: Allow user to put some text on the image (meme generator)
 
- (Androidmocks.png)
-
+Wireframe 
+![image](Androidmocks.png)
